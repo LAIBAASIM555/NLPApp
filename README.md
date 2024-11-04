@@ -73,4 +73,3 @@ For any inquiries, please reach out to me at [laibaasimjaved954@gmail.com](laiba
 ---
 
 ### Thank you for checking out NLPApp! I hope you find it useful for your NLP projects. Happy coding! 🎉
-```
