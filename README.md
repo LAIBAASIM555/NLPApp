@@ -70,6 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries, please reach out to me at [laibaasimjaved954@gmail.com](laibaasimjaved954@gmail.com) or visit my [GitHub profile](https://github.com/LAIBAASIM555).
 
----
+
 
 ### Thank you for checking out NLPApp! I hope you find it useful for your NLP projects. Happy coding! 🎉
+---
